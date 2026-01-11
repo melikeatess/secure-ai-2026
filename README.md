@@ -1,2 +1,3 @@
 # secure-ai-2026
-Open-source tools &amp; blogs on AI-powered cybersecurity – 2026 Project
+📅 I'm building secure-ai-2026: A year-long open-source project combining AI and cybersecurity tooling & research. New blogs every 2 weeks!
+
